@@ -1,0 +1,7 @@
+Language: Cpp
+BasedOnStyle: Google
+DerivePointerAlignment: false
+SpaceBeforeCpp11BracedList: false
+AllowAllConstructorInitializersOnNextLine: false
+FixNamespaceComments: false
+Cpp11BracedListStyle: false
